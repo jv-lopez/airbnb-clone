@@ -7,6 +7,9 @@ export default function Home() {
   return (
     <div className="container mx-auto px-5 lg:px-10">
       <MapFilterItems />
+      <h1 className="text-center text-4xl md:text-5xl my-10">
+        Something great is coming to life
+      </h1>
     </div>
   );
 }
